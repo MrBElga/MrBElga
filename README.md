@@ -1,6 +1,6 @@
 ## Olá, meu nome é Daniel Elias Fonseca Rumin 
 
-- 🌱 Tenho conhecimento em Html, Css, Javascript, C e c++
+- 🌱 Tenho conhecimento em Html, Css,Java, Javascript, C e c++
 - 📚 Atualmente estou estudando NodeJS, TypeScript
 
 <div align="center">
