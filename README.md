@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C" height="30" width="40" src=" https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   
   
   <img align="right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif?width=676&height=676&border-radius=100px">
