@@ -1,7 +1,7 @@
-## Olá, meu nome é Daniel Elias Fonseca Rumin 
+## Hello everyyone, my name is Daniel Elias Fonseca Rumin 
 
-- 🌱 Tenho conhecimento em Html, Css,Java, Javascript, C e c++
-- 📚 Atualmente estou estudando NodeJS, TypeScript
+- 🌱 I have knowledge in Html, Css,Java, Javascript, C e c++
+- 📚 I'm currently studying NodeJS, TypeScript
 
 <div align="center">
   <a href="https://github.com/MrBElga">
