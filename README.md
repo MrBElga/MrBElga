@@ -1,7 +1,7 @@
 ## Hello everyyone, my name is Daniel Elias Fonseca Rumin 
 
 - 🌱 I have knowledge in Html, Css,Java, Javascript, C e c++
-- 📚 I'm currently studying NodeJS, TypeScript
+- 📚 I'm currently studying NodeJS, TypeScript.
 
 <div align="center">
   <a href="https://github.com/MrBElga">
