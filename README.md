@@ -1,4 +1,4 @@
-## Hello everyyone, my name is Daniel Elias Fonseca Rumin 
+## Hello everyone, my name is Daniel Elias Fonseca Rumin 
 
 - 🌱 I have knowledge in Html, Css,Java, Javascript, C e c++
 - 📚 I'm currently studying NodeJS, TypeScript.
