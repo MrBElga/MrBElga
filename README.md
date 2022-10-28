@@ -40,7 +40,8 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrBElga}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrBElga}/count.svg" />
+ <div><img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif?width=676&height=676&border-radius=100px"></p>
 <br>
 </div>
 
