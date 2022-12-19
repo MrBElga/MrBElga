@@ -6,9 +6,9 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Daniel Elias Fonseca Rumin github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&hide_border=true&langs_count=8&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
 </div>
-<div align="center">  
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBElga&bg_color=0d1117&color=00ff33&line=279634&point=00ff62&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrBElga&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
