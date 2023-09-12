@@ -1,4 +1,3 @@
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello+Everyone,+my+name+is+Daniel+Elias;I'm+22+years+old;I'm+from+Brazil;I'm+a+computer+science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -39,14 +38,6 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
-
-
-
-
-
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrBElga}/count.svg" />
@@ -57,4 +48,3 @@
 ![Snake animation](https://github.com/MrBElga/MrBElga/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=footer"/>
-
