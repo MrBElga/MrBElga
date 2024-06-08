@@ -48,7 +48,7 @@
   </div>
   <br>
 </div>
-script>
+<script>
   document.addEventListener("DOMContentLoaded", function() {
     const visitCountElement = document.getElementById('visitCount');
     let visitCount = parseInt(visitCountElement.textContent);
