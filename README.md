@@ -37,12 +37,19 @@
 ### Languages:
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> 
 
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrBElga}/count.svg" />
- <div><img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif?width=676&height=676&border-radius=100px"></p>
-<br>
+  <br>
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/MrBElga&s=38&c=00FF00&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=&init=5000" />
+  </p>
+  <div>
+    <img align="center-right" alt="pic" height="150" style="border-radius:100px;" src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif?width=676&height=676&border-radius=100px">
+  </div>
+  <br>
 </div>
+
+
 
 ![Snake animation](https://github.com/MrBElga/MrBElga/blob/output/github-contribution-grid-snake-dark.svg)
 
