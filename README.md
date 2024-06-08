@@ -48,7 +48,21 @@
   </div>
   <br>
 </div>
+script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const visitCountElement = document.getElementById('visitCount');
+    let visitCount = parseInt(visitCountElement.textContent);
 
+    // Function to increment the counter
+    function incrementCounter() {
+      visitCount++;
+      visitCountElement.textContent = visitCount;
+    }
+
+    // Simulate incrementing the counter
+    setInterval(incrementCounter, 1000); // Increment every second for demonstration
+  });
+</script>
 
 
 ![Snake animation](https://github.com/MrBElga/MrBElga/blob/output/github-contribution-grid-snake-dark.svg)
