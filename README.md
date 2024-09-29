@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello+Everyone,+my+name+is+Daniel+Elias;I'm+22+years+old;I'm+from+Brazil;I'm+a+computer+science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Daniel Elias Fonseca Rumin github stats" /> 
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Daniel Elias Fonseca Rumin github stats"/>
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
+  <img width="51%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MrBElga&theme=dark&locale=pt_BR&background=0d1117&hide_border=true&fire=1FDE15&ring=6BB967&currStreakLabel=A1A4A0&dates=A1A4A0" alt="GitHub Streak" />
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&hide_border=true&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" alt="MrBElga's WakaTime Stats"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
