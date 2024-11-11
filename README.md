@@ -1,3 +1,4 @@
+<!--license by MrBelga -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=41FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello+Everyone,+my+name+is+Daniel+Elias;I'm+23+years+old;I'm+from+Brazil;I'm+a+computer+science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -16,7 +17,7 @@
 <a href = "danieleliasrumin@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniel-elias-fonseca-rumin-75656a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>  
  </div>
- 
+
 ### Main skills:
  - **Programming Languages:** <br>
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -26,12 +27,12 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-
+<!--license by MrBelga -->
 - **Frameworks:**<br>
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
   ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-
+<!--license by MrBelga -->
 - **Databases:**<br>
   ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -39,17 +40,17 @@
 
 
 
-
+<!--license by MrBelga -->
 ### Studying in this moment:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+<!--license by MrBelga -->
 ### Languages:
 <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="48"> <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48">
 
-
+<!--license by MrBelga -->
 <div align="center">
   <br>
   <p align="center">
@@ -62,7 +63,7 @@
 </div>
 
 
-
+<!--license by MrBelga -->
 ![Snake animation](https://github.com/MrBElga/MrBElga/blob/output/github-contribution-grid-snake-dark.svg)
-
+<!--license by MrBelga -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=footer"/>
