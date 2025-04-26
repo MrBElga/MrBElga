@@ -123,3 +123,5 @@
 <!--license by MrBelga -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69F539&height=120&section=footer"/>
+
+<p align="center">README design by <a href="https://github.com/MrBElga">MrBelga</a></p>
