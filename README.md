@@ -10,7 +10,12 @@
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&count_private=true&hide_border=true&title_color=1FDE15&icon_color=6BB967&text_color=A1A4A0&bg_color=0d1117" alt="Daniel Elias Fonseca Rumin github stats"/>
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
 </div>
+ <div align="center">
+   
+ [![committers.top badge](https://user-badge.committers.top/brazil/MrBElga.svg)](https://user-badge.committers.top/brazil/MrBElga)
+ [![committers.top badge](https://user-badge.committers.top/brazil_public/MrBElga.svg)](https://user-badge.committers.top/brazil_public/MrBElga)
 
+ </div>
 <!--license by MrBelga -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -19,9 +24,11 @@
 <div align="center"> 
 <a href="mailto:mrbelga.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px">
-</a><a href="https://www.linkedin.com/in/daniel-elias-fonseca-rumin-75656a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>  
+</a><a href="https://www.linkedin.com/in/daniel-elias-fonseca-rumin-75656a186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  
  </div>
- 
+
+
 <!--license by MrBelga -->
 
 ### Main skills:
