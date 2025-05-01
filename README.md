@@ -125,10 +125,15 @@
 
 <!--license by MrBelga -->
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrBelga/MrBelga/output/pacman-contribution-graph.svg">
+</picture>-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake.svg">
+  <img alt="Gráfico de contribuições da cobrinha" src="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake.svg">
 </picture>
 
 
