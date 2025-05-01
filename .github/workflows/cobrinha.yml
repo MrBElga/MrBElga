@@ -1,54 +1,33 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: Gerar Snake Game
 
-# Controls when the action will run.
 on:
   schedule:
-    # Runs every minute
-    
-    - cron: "* * * * *"
-
-  # Manually triggered from the Actions tab
-  workflow_dispatch:
-  
-  # Runs on every push to the 'main' branch
+    - cron: "0 */24 * * *"
   push:
     branches:
-    - main
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      # Clone the repository
-      - name: Checkout the repository
+      - name: Checar repositório
         uses: actions/checkout@v3
 
-      # Generate Snake Animation using Platane's action
-      - name: Generate Snake Animation
+      - name: Gerar gráfico do Pac-Man
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Push the newly generated files to the 'output' branch
-      - name: Push Snake Animation to Output Branch
+      - name: Enviar para branch de saída
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Optionally, run a status check on the repository
-      - name: Show repository status
-        run: git status
-        continue-on-error: true
