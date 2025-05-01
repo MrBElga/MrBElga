@@ -125,7 +125,16 @@
 
 <!--license by MrBelga -->
 
-![Snake animation](https://github.com/MrBElga/MrBElga/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/pacman-contribution-graph-dark.svg">
+  <img alt="Gráfico de contribuições do Pac-Man" src="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/pacman-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/commit-invaders-dark.svg">
+  <img alt="Gráfico de contribuições com Space Invaders" src="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/commit-invaders.svg">
+</picture>
+
 
 <!--license by MrBelga -->
 
