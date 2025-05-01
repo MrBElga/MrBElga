@@ -5,6 +5,7 @@ name: Generate Snake
 on:
   schedule:
     # Runs every minute
+    
     - cron: "* * * * *"
 
   # Manually triggered from the Actions tab
