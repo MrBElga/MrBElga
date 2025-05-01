@@ -126,14 +126,11 @@
 <!--license by MrBelga -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/pacman-contribution-graph-dark.svg">
-  <img alt="Gráfico de contribuições do Pac-Man" src="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrBelga/MrBelga/output/pacman-contribution-graph.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/commit-invaders-dark.svg">
-  <img alt="Gráfico de contribuições com Space Invaders" src="https://raw.githubusercontent.com/[MrBelga]/[MrBelga]/output/commit-invaders.svg">
-</picture>
 
 
 <!--license by MrBelga -->
