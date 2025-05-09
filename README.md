@@ -16,6 +16,8 @@
  [![committers.top badge](https://user-badge.committers.top/brazil_public/MrBElga.svg)](https://user-badge.committers.top/brazil_public/MrBElga)
 
  </div>
+
+ <figure><embed src="https://wakatime.com/share/@MrBElga/f750681b-cba1-47be-ae68-c86894329f7d.svg"></embed></figure>
 <!--license by MrBelga -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
