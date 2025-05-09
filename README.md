@@ -16,10 +16,10 @@
  [![committers.top badge](https://user-badge.committers.top/brazil_public/MrBElga.svg)](https://user-badge.committers.top/brazil_public/MrBElga)
 
  </div>
-
-<div align="center"> 
-  
-  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1FDE15&text_color=A1A4A0)](https://wakatime.com/@MrBElga)
+<div align="center">
+  <a href="https://wakatime.com/@MrBElga">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1FDE15&text_color=A1A4A0" />
+  </a>
 </div>
 <!--license by MrBelga -->
 
