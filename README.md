@@ -17,7 +17,10 @@
 
  </div>
 
- <figure><embed src="https://wakatime.com/share/@MrBElga/f750681b-cba1-47be-ae68-c86894329f7d.svg"></embed></figure>
+<div align="center"> 
+  
+  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1FDE15&text_color=A1A4A0)](https://wakatime.com/@MrBElga)
+</div>
 <!--license by MrBelga -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
