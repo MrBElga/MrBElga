@@ -18,7 +18,7 @@
  </div>
 <div align="center">
   <a href="https://wakatime.com/@MrBElga">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1FDE15&text_color=A1A4A0" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=github_dark&bg_color=0d1117&title_color=1FDE15&text_color=A1A4A0&hide_border=true" />
   </a>
 </div>
 <!--license by MrBelga -->
