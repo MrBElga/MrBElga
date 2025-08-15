@@ -11,10 +11,10 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&hide_border=true&langs_count=10&title_color=1FDE15&text_color=A1A4A0&bg_color=0d1117" />
 </div>
  <div align="center">
-   
+   <!--
  [![committers.top badge](https://user-badge.committers.top/brazil/MrBElga.svg)](https://user-badge.committers.top/brazil/MrBElga)
  [![committers.top badge](https://user-badge.committers.top/brazil_public/MrBElga.svg)](https://user-badge.committers.top/brazil_public/MrBElga)
-
+ -->
  </div>
 <div align="center">
   <a href="https://wakatime.com/@MrBElga">
