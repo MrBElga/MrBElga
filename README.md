@@ -1,23 +1,21 @@
 <!--
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║                                                                            ║
-║     ███╗   ███╗██████╗ ██████╗ ███████╗██╗      ██████╗  █████╗           ║
-║     ████╗ ████║██╔══██╗██╔══██╗██╔════╝██║     ██╔════╝ ██╔══██╗          ║
-║     ██╔████╔██║██████╔╝██████╔╝█████╗  ██║     ██║  ███╗███████║          ║
-║     ██║╚██╔╝██║██╔══██╗██╔══██╗██╔══╝  ██║     ██║   ██║██╔══██║          ║
-║     ██║ ╚═╝ ██║██║  ██║██████╔╝███████╗███████╗╚██████╔╝██║  ██║          ║
-║     ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝          ║
+║     ███╗   ███╗██████╗ ██████╗ ███████╗██╗      ██████╗  █████╗            ║
+║     ████╗ ████║██╔══██╗██╔══██╗██╔════╝██║     ██╔════╝ ██╔══██╗           ║
+║     ██╔████╔██║██████╔╝██████╔╝█████╗  ██║     ██║  ███╗███████║           ║
+║     ██║╚██╔╝██║██╔══██╗██╔══██╗██╔══╝  ██║     ██║   ██║██╔══██║           ║
+║     ██║ ╚═╝ ██║██║  ██║██████╔╝███████╗███████╗╚██████╔╝██║  ██║           ║
+║     ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝           ║
 ║                                                                            ║
-║  ┌────────────────────────────────────────────────────────────────────┐   ║
-║  │  ORIGINAL DESIGN BY: Daniel Elias Fonseca Rumin (@MrBelga)        │   ║
-║  │  GitHub: https://github.com/MrBElga                                │   ║
-║  │  Email: mrbelga.dev@gmail.com                                      │   ║
-║  │  Location: 🇧🇷 Brazil → 🇨🇭 Switzerland (2 years) → 🇧🇷 Brazil      │   ║
-║  └────────────────────────────────────────────────────────────────────┘   ║
+║  ┌────────────────────────────────────────────────────────────────────┐    ║
+║  │  ORIGINAL DESIGN BY: Daniel Elias Fonseca Rumin (@MrBelga)         │    ║
+║  │  GitHub: https://github.com/MrBElga                                │    ║
+║  │  Email: mrbelga.dev@gmail.com                                      │    ║ 
+║  └────────────────────────────────────────────────────────────────────┘    ║
 ║                                                                            ║
-║  ⚡ PROTECTED README - WATERMARK INTEGRATED IN VISUAL STRUCTURE            ║
-║  🔒 Removing this notice will break credits and visual integrity           ║
-║  🎨 Custom design with embedded signatures in external components          ║
+║     PROTECTED README - WATERMARK INTEGRATED IN VISUAL STRUCTURE            ║
+║     Removing this notice will break credits and visual integrity           ║  
 ║                                                                            ║
 ║  If you're viewing this code:                                              ║
 ║  • Give proper credit to the original author                               ║
@@ -27,15 +25,12 @@
 ╚════════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ========================= COMPONENT: HEADER ========================= -->
-<!-- Protected design by Daniel Elias (MrBelga) | Removing this breaks layout -->
 <div align="center">
   <a href="https://github.com/MrBElga">
     <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/header.svg" width="100%" alt="MrBelga Header"/>
   </a>
 </div>
 
-<!-- ========================= COMPONENT: TYPING BANNER ========================= -->
 <div align="center">
   <a href="https://github.com/MrBElga">
     <img src="https://readme-typing-svg.herokuapp.com/?color=69F539&size=32&center=true&vCenter=true&width=1000&lines=👋+Olá!+Meu+nome+é+Daniel+Elias;💻+Desenvolvedor+Full+Stack+%7C+Cientista+da+Computação;🌍+Experiência+internacional+na+Suíça+🇨🇭;⚡+Sempre+aprendendo+e+evoluindo!;🇩🇪+Hallo!+Ich+bin+Daniel+Elias;🚀+Full+Stack+Entwickler+%7C+Informatikstudent;💡+2+Jahre+Erfahrung+in+der+Schweiz;🇬🇧+Hello!+I'm+Daniel+Elias;🔥+Full+Stack+Developer+%7C+Computer+Scientist;✨+Passionate+about+technology+and+innovation;Bem-vindo+ao+meu+perfil!+😊" alt="Typing SVG" />
@@ -44,7 +39,6 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: GITHUB STATS ========================= -->
 <div align="center">
   <a href="https://github.com/MrBElga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=69F539&icon_color=69F539&text_color=A1FFB4&ring_color=69F539&border_radius=15&custom_title=Daniel%20Elias%20(MrBelga)%20%7C%20GitHub%20Stats"/>
@@ -56,7 +50,6 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: WAKATIME STATS ========================= -->
 <div align="center">
   <a href="https://wakatime.com/@MrBElga">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=69F539&text_color=A1FFB4&border_radius=15&custom_title=Belga's%20Coding%20Time%20%E2%8F%B1%EF%B8%8F"/>
@@ -65,7 +58,6 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: ACTIVITY GRAPH ========================= -->
 <div align="center">
   <a href="https://github.com/MrBElga">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&bg_color=0d1117&color=69F539&line=69F539&point=A1A4A0&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
@@ -74,7 +66,6 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: DIVIDER ========================= -->
 <!-- Protected component | Signature: SHA1-f1d2d2f924e986ac -->
 <div align="center">
   <a href="https://github.com/MrBElga">
@@ -84,7 +75,6 @@
 
 <br/>
 
-<!-- ========================= SKILLS & TECHNOLOGIES ========================= -->
 <div align="center">
 
 ## ⚡ SKILLS & TECHNOLOGIES ⚡
@@ -140,14 +130,12 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: DIVIDER 2 ========================= -->
 <div align="center">
   <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider2.svg" width="100%" alt="Section Divider"/>
 </div>
 
 <br/>
 
-<!-- ========================= LANGUAGES SECTION ========================= -->
 <div align="center">
 
 ## 🌍 Idiomas | Languages | Sprachen
@@ -179,8 +167,6 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: INTERESTING FACTS ========================= -->
-<!-- FILE: components/about.svg | Protected by MrBelga -->
 <div align="center">
 
 ## 💡 Fatos Interessantes
@@ -191,14 +177,12 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: DIVIDER 3 ========================= -->
 <div align="center">
   <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider3.svg" width="100%" alt="Section Divider"/>
 </div>
 
 <br/>
 
-<!-- ========================= CONTACT SECTION ========================= -->
 <div align="center">
 
 ## 📬 Let's Connect!
@@ -214,21 +198,18 @@
 
 <br/>
 
-<!-- ========================= METRICS ========================= -->
 <div align="center">
   <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/MrBElga&s=42&c=69F539&bg=0d1117&no=7&ff=digi&tb=Profile+Visits:+&ta=" alt="Visit Counter"/>
 </div>
 
 <br/>
 
-<!-- ========================= SIGNATURE GIF ========================= -->
 <div align="center">
   <img src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif" height="160" style="border-radius:100px;" alt="Signature Animation"/>
 </div>
 
 <br/>
 
-<!-- ========================= SNAKE ANIMATION ========================= -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake-dark.svg">
@@ -239,7 +220,6 @@
 
 <br/><br/>
 
-<!-- ========================= COMPONENT: FOOTER ========================= -->
 <!-- Protected design by Daniel Elias (MrBelga) | Signature: SHA1-f1d2d2f924e986ac -->
 <div align="center">
   <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/footer.svg" width="100%" alt="Footer"/>
@@ -247,7 +227,6 @@
 
 <br/>
 
-<!-- ========================= FOOTER SIGNATURE ========================= -->
 <div align="center">
   <sub>
     🎨 <b>README Design & Protection</b> © 2024 Daniel Elias Fonseca Rumin (<a href="https://github.com/MrBElga">@MrBelga</a>)<br>
