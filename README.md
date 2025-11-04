@@ -200,17 +200,7 @@
 
 <!-- ========================= VISITOR COUNTER ========================= -->
 <div align="center">
-  <div style="position: relative; display: inline-block;">
-    
-<!-- SVG Customizado -->
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/visitorcounter.svg" width="500" alt="Visitor Counter"/>
-
-<!-- Contador Real Sobreposto -->
-<div style="position: absolute; bottom: 25px; left: 50%; transform: translateX(-50%);">
-  <img src="https://komarev.com/ghpvc/?username=MrBElga&color=69F539&style=for-the-badge&label=VISITS" alt="Profile Views"/>
-</div>
-
-  </div>
+  <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/visitorcounterembedded.svg" width="600" alt="Visitor Counter"/>
 </div>
 
 <br/>
