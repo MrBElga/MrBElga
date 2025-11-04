@@ -199,9 +199,12 @@
 <br/>
 
 <!-- ========================= VISITOR COUNTER ========================= -->
-<div align="center">
-  <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/visitorcounterembedded.svg" width="600" alt="Visitor Counter"/>
+<div align="center" style="position: relative; display: inline-block;">
+ <img src="https://count.getloli.com/get/@MrBElga?theme=moebooru"/>
 </div>
+
+
+
 
 <br/>
 
