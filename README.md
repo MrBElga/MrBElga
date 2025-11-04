@@ -170,15 +170,17 @@
 <div align="center">
 
 ## 💡 Fatos Interessantes
-
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/about.svg" width="90%" alt="About Me"/>
-
+<a href="https://github.com/MrBElga">
+  <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/about.svg" width="90%" alt="About Me"/>
+ </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider3.svg" width="100%" alt="Section Divider"/>
+  <a href="https://github.com/MrBElga">
+    <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider3.svg" width="100%" alt="Section Divider"/>
+  </a>
 </div>
 
 <br/>
@@ -210,7 +212,9 @@
 
 <!-- ========================= SIGNATURE GIF ========================= -->
 <div align="center">
-  <img src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif" height="160" style="border-radius:100px;" alt="Signature Animation"/>
+  <a href="https://github.com/MrBElga">
+    <img src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif" height="160" style="border-radius:100px;" alt="Signature Animation"/>
+  </a>    
 </div>
 
 <br/>
@@ -229,7 +233,9 @@
 
 <!-- Protected design by Daniel Elias (MrBelga) | Signature: SHA1-f1d2d2f924e986ac -->
 <div align="center">
-  <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/footer.svg" width="100%" alt="Footer"/>
+  <a href="https://github.com/MrBElga">
+    <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/footer.svg" width="100%" alt="Footer"/>
+  </a>
 </div>
 
 <br/>
