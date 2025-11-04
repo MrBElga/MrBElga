@@ -198,11 +198,21 @@
 
 <br/>
 
-![Visitors](https://count.getloli.com/get/@MrBelga?theme=moebooru)
+<div align="center">
+  
+<!-- Contador de Visitas Customizado MrBelga -->
+<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/visitorcounter.svg" width="400" alt="Visitor Counter"/>
+
+<br/><br/>
+
+<!-- Contador Real de Visitas -->
+<img src="https://komarev.com/ghpvc/?username=MrBElga&color=69F539&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views"/>
+
+</div>
 
 <br/>
 
-<div align="center">
+<!-- ========================= SIGNATURE GIF ========================= -->
   <img src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif" height="160" style="border-radius:100px;" alt="Signature Animation"/>
 </div>
 
