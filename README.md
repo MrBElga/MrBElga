@@ -47,15 +47,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=69F539&text_color=A1FFB4&border_radius=15&custom_title=Most%20Used%20Languages%20%7C%20MrBelga"/>
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="https://wakatime.com/@MrBElga">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=69F539&text_color=A1FFB4&border_radius=15&custom_title=Belga's%20Coding%20Time%20%E2%8F%B1%EF%B8%8F"/>
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
