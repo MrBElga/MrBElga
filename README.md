@@ -131,7 +131,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider2.svg" width="100%" alt="Section Divider"/>
+  <a href="https://github.com/MrBElga">
+    <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider2.svg" width="100%" alt="Section Divider"/>
+  </a>
 </div>
 
 <br/>
