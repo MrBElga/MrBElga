@@ -46,8 +46,12 @@
 
 <!-- ========================= COMPONENT: GITHUB STATS ========================= -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&count_private=true&hide_border=true&title_color=69F539&icon_color=69F539&text_color=A1A4A0&bg_color=0d1117&border_radius=10" alt="Daniel Elias GitHub Stats"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&hide_border=true&langs_count=10&title_color=69F539&text_color=A1A4A0&bg_color=0d1117&border_radius=10" alt="Most Used Languages"/>
+  <a href="https://github.com/MrBElga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=69F539&icon_color=69F539&text_color=A1FFB4&ring_color=69F539&border_radius=15&custom_title=Daniel%20Elias%20(MrBelga)%20%7C%20GitHub%20Stats"/>
+  </a>
+  <a href="https://github.com/MrBElga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=69F539&text_color=A1FFB4&border_radius=15&custom_title=Most%20Used%20Languages%20%7C%20MrBelga"/>
+  </a>
 </div>
 
 <br/>
@@ -55,7 +59,7 @@
 <!-- ========================= COMPONENT: WAKATIME STATS ========================= -->
 <div align="center">
   <a href="https://wakatime.com/@MrBElga">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=github_dark&bg_color=0d1117&title_color=69F539&text_color=A1A4A0&hide_border=true&border_radius=10" alt="WakaTime Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrBElga&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=69F539&text_color=A1FFB4&border_radius=15&custom_title=Belga's%20Coding%20Time%20%E2%8F%B1%EF%B8%8F"/>
   </a>
 </div>
 
@@ -73,7 +77,9 @@
 <!-- ========================= COMPONENT: DIVIDER ========================= -->
 <!-- Protected component | Signature: SHA1-f1d2d2f924e986ac -->
 <div align="center">
+  <a href="https://github.com/MrBElga">
   <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/divider.svg" width="100%" alt="Section Divider"/>
+  </a>
 </div>
 
 <br/>
