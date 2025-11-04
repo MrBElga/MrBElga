@@ -198,25 +198,31 @@
 
 <br/>
 
+<!-- ========================= VISITOR COUNTER ========================= -->
 <div align="center">
-  
-<!-- Contador de Visitas Customizado MrBelga -->
-<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/visitorcounter.svg" width="400" alt="Visitor Counter"/>
+  <div style="position: relative; display: inline-block;">
+    
+<!-- SVG Customizado -->
+<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/visitorcounter.svg" width="500" alt="Visitor Counter"/>
 
-<br/><br/>
+<!-- Contador Real Sobreposto -->
+<div style="position: absolute; bottom: 25px; left: 50%; transform: translateX(-50%);">
+  <img src="https://komarev.com/ghpvc/?username=MrBElga&color=69F539&style=for-the-badge&label=VISITS" alt="Profile Views"/>
+</div>
 
-<!-- Contador Real de Visitas -->
-<img src="https://komarev.com/ghpvc/?username=MrBElga&color=69F539&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Views"/>
-
+  </div>
 </div>
 
 <br/>
 
 <!-- ========================= SIGNATURE GIF ========================= -->
+<div align="center">
   <img src="https://github.com/MrBElga/MrBElga/blob/main/.github/workflows/12.gif" height="160" style="border-radius:100px;" alt="Signature Animation"/>
 </div>
 
 <br/>
+
+<!-- ========================= SNAKE ANIMATION ========================= -->
 
 <div align="center">
   <picture>
