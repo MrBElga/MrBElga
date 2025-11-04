@@ -198,9 +198,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/MrBElga&s=42&c=69F539&bg=0d1117&no=7&ff=digi&tb=Profile+Visits:+&ta=" alt="Visit Counter"/>
-</div>
+![Visitors](https://count.getloli.com/get/@MrBelga?theme=moebooru)
 
 <br/>
 
