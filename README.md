@@ -44,14 +44,6 @@
 
 <br/>
 
-<!-- ========================= COMPONENT: ABOUT ME ========================= -->
-<!-- FILE: components/about.svg | Protected by MrBelga -->
-<div align="center">
-  <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/about.svg" width="90%" alt="About Me"/>
-</div>
-
-<br/>
-
 <!-- ========================= COMPONENT: GITHUB STATS ========================= -->
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&count_private=true&hide_border=true&title_color=69F539&icon_color=69F539&text_color=A1A4A0&bg_color=0d1117&border_radius=10" alt="Daniel Elias GitHub Stats"/>
@@ -152,27 +144,42 @@
 <!-- ========================= LANGUAGES SECTION ========================= -->
 <div align="center">
 
-## 🌍 Languages
+## 🌍 Idiomas | Languages | Sprachen
 
 <table>
   <tr>
-    <td align="center" width="180">
-      <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="60"><br>
-      <sub><b>Português</b></sub><br>
-      <sub>🟢 Nativo</sub>
+    <td align="center" width="240" style="border: 2px solid #69F539; border-radius: 15px; padding: 20px;">
+      <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="80" style="filter: drop-shadow(0 0 10px rgba(105, 245, 57, 0.5));"><br><br>
+      <h3 style="color: #69F539; margin: 10px 0;">Português</h3>
+      <sub style="color: #A1A4A0; font-size: 14px;">🟢 <b>Nativo</b></sub><br>
+      <sub style="color: #6BB967;">Fluência completa</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="60"><br>
-      <sub><b>Deutsch</b></sub><br>
-      <sub>🟢 Fluente</sub>
+    <td align="center" width="240" style="border: 2px solid #69F539; border-radius: 15px; padding: 20px;">
+      <img src="https://hatscripts.github.io/circle-flags/flags/de.svg" width="80" style="filter: drop-shadow(0 0 10px rgba(105, 245, 57, 0.5));"><br><br>
+      <h3 style="color: #69F539; margin: 10px 0;">Deutsch</h3>
+      <sub style="color: #A1A4A0; font-size: 14px;">🟢 <b>Fluente</b></sub><br>
+      <sub style="color: #6BB967;">2 anos na Suíça 🇨🇭</sub>
     </td>
-    <td align="center" width="180">
-      <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="60"><br>
-      <sub><b>English</b></sub><br>
-      <sub>🟢 Avançado</sub>
+    <td align="center" width="240" style="border: 2px solid #69F539; border-radius: 15px; padding: 20px;">
+      <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="80" style="filter: drop-shadow(0 0 10px rgba(105, 245, 57, 0.5));"><br><br>
+      <h3 style="color: #69F539; margin: 10px 0;">English</h3>
+      <sub style="color: #A1A4A0; font-size: 14px;">🟢 <b>Avançado</b></sub><br>
+      <sub style="color: #6BB967;">Profissional & Técnico</sub>
     </td>
   </tr>
 </table>
+
+</div>
+
+<br/>
+
+<!-- ========================= COMPONENT: INTERESTING FACTS ========================= -->
+<!-- FILE: components/about.svg | Protected by MrBelga -->
+<div align="center">
+
+## 💡 Fatos Interessantes
+
+<img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/about.svg" width="90%" alt="About Me"/>
 
 </div>
 
@@ -190,17 +197,11 @@
 
 ## 📬 Let's Connect!
 
-<a href="https://github.com/MrBElga">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 <a href="mailto:mrbelga.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/daniel-elias-fonseca-rumin-75656a186/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wakatime.com/@MrBElga">
-  <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white"/>
 </a>
 
 </div>
