@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/MrBElga">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=69F539&size=32&center=true&vCenter=true&width=1000&lines=👋+Olá!+Meu+nome+é+Daniel+Elias;💻+Desenvolvedor+Full+Stack+%7C+Cientista+da+Computação;🌍+Experiência+internacional+na+Suíça+🇨🇭;⚡+Sempre+aprendendo+e+evoluindo!;🇩🇪+Hallo!+Ich+bin+Daniel+Elias;🚀+Full+Stack+Entwickler+%7C+Informatikstudent;💡+2+Jahre+Erfahrung+in+der+Schweiz;🇬🇧+Hello!+I'm+Daniel+Elias;🔥+Full+Stack+Developer+%7C+Computer+Scientist;✨+Passionate+about+technology+and+innovation;Bem-vindo+ao+meu+perfil!+😊" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=69F539&size=32&center=true&vCenter=true&width=1000&lines=👋+Olá!+Meu+nome+é+Daniel+Elias;💻+Desenvolvedor+Full+Stack+%7C+Cientista+da+Computação;Hallo!+Ich+bin+Daniel+Elias;🚀+Full+Stack+Entwickler+%7C+Informatikstudent;I'm+Daniel+Elias;🔥+Full+Stack+Developer+%7C+Computer+Scientist;✨+Passionate+about+technology+and+innovation;Bem-vindo+ao+meu+perfil!+😊" alt="Typing SVG" />
   </a>
 </div>
 
