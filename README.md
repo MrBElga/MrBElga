@@ -109,16 +109,9 @@
 <br/>
 
 <div align="center">
-
-## 📬 Let's Connect!
-
-<a href="mailto:mrbelga.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daniel-elias-fonseca-rumin-75656a186/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/MrBElga">
+    <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/connect-section.svg" width="100%" alt="Let's Connect"/>
+  </a>
 </div>
 
 <br/>
