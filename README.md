@@ -109,10 +109,8 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/MrBElga">
   <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/contact-links.svg" width="100%" alt="Let's Connect"/>
-</div>
-
-<div align="center">
   <a href="mailto:mrbelga.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
