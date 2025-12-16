@@ -110,7 +110,7 @@
 
 <div align="center">
   <a href="https://github.com/MrBElga">
-    <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/connect-section.svg" width="100%" alt="Let's Connect"/>
+    <img src="https://mrbelga.github.io/MrBelga-ReadmeAssets/contact-links.svg" width="100%" alt="Let's Connect"/>
   </a>
 </div>
 
