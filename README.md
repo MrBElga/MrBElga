@@ -50,9 +50,6 @@
 <br/>
 
 
-<br/>
-
-
 <div align="center">
   <a href="https://github.com/MrBElga">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&bg_color=0d1117&color=69F539&line=69F539&point=A1A4A0&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
