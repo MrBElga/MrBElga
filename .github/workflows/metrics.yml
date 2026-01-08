@@ -1,0 +1,70 @@
+name: Metrics
+on:
+  # Roda a cada 12 horas automaticamente
+  schedule: [{ cron: "0 */12 * * *" }]
+  # Permite rodar manualmente quando quiser
+  workflow_dispatch:
+  # Roda quando der push na main
+  push: { branches: ["main", "master"] }
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token automático do GitHub (NÃO PRECISA CRIAR)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Seu usuário
+          user: MrBElga
+          
+          # Template clean e profissional
+          template: classic
+          
+          # Configurações base
+          base: header, activity, community, repositories, metadata
+          
+          # Tema e cores (SEU VERDE NEON)
+          config_timezone: America/Sao_Paulo
+          config_twemoji: yes
+          config_display: large
+          
+          # ===== PLUGIN: LINGUAGENS (O MAIS IMPORTANTE) =====
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 12
+          plugin_languages_threshold: 0%
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_categories: programming
+          
+          # ===== PLUGIN: ATIVIDADE =====
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_timestamps: yes
+          
+          # ===== PLUGIN: LINHAS DE CÓDIGO =====
+          plugin_lines: yes
+          plugin_lines_sections: base, repositories
+          
+          # ===== PLUGIN: HÁBITOS DE CÓDIGO =====
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          
+          # ===== CUSTOMIZAÇÃO VISUAL =====
+          # Cores customizadas pro teu tema
+          config_padding: 0, 8 + 11%
+          
+          # Output
+          config_output: svg
+          optimize: css, xml, svg
