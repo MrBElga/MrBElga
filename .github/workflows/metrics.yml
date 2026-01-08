@@ -15,56 +15,72 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token automático do GitHub (NÃO PRECISA CRIAR)
+          # Token automático do GitHub
           token: ${{ secrets.GITHUB_TOKEN }}
           
           # Seu usuário
           user: MrBElga
           
-          # Template clean e profissional
+          # Template minimalista
           template: classic
           
-          # Configurações base
-          base: header, activity, community, repositories, metadata
+          # ===== CONFIGURAÇÕES BASE (SÓ O ESSENCIAL) =====
+          # Mostra apenas: header + repositories
+          base: header, repositories
           
-          # Tema e cores (SEU VERDE NEON)
+          # Timezone
           config_timezone: America/Sao_Paulo
-          config_twemoji: yes
-          config_display: large
           
-          # ===== PLUGIN: LINGUAGENS (O MAIS IMPORTANTE) =====
+          # ===== CUSTOMIZAÇÃO VISUAL (TEMA VERDE NEON) =====
+          config_display: large
+          config_padding: 6%, 10%
+          
+          # Remove animações e excesso de informação
+          config_animations: no
+          config_twemoji: yes
+          
+          # Ordem das seções
+          config_order: base.header, languages, base.repositories
+          
+          # ===== PLUGIN: LINGUAGENS (MINIMALISTA E LIMPO) =====
           plugin_languages: yes
-          plugin_languages_details: percentage, bytes-size
+          
+          # Formato: lista vertical simples com porcentagem
           plugin_languages_sections: most-used
-          plugin_languages_limit: 12
-          plugin_languages_threshold: 0%
-          plugin_languages_colors: github
+          plugin_languages_details: percentage
+          
+          # Mostra apenas as top 8 linguagens
+          plugin_languages_limit: 8
+          
+          # Ignora linguagens com menos de 2% de uso
+          plugin_languages_threshold: 2%
+          
+          # Análise profunda (conta privados corretamente)
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
+          
+          # Mostra apenas linguagens de programação (ignora JSON, YAML, etc)
           plugin_languages_categories: programming
           
-          # ===== PLUGIN: ATIVIDADE =====
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_timestamps: yes
+          # Cores das linguagens (GitHub padrão)
+          plugin_languages_colors: github
           
-          # ===== PLUGIN: LINHAS DE CÓDIGO =====
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories
+          # ===== O QUE NÃO VAI APARECER =====
+          # SEM recent coding habits
+          plugin_habits: no
           
-          # ===== PLUGIN: HÁBITOS DE CÓDIGO =====
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+          # SEM recent activity  
+          plugin_activity: no
           
-          # ===== CUSTOMIZAÇÃO VISUAL =====
-          # Cores customizadas pro teu tema
-          config_padding: 0, 8 + 11%
+          # SEM lines of code
+          plugin_lines: no
           
-          # Output
+          # SEM notable contributions
+          plugin_notable: no
+          
+          # SEM discussions
+          plugin_discussions: no
+          
+          # Output limpo
           config_output: svg
           optimize: css, xml, svg
