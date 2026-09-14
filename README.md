@@ -41,21 +41,19 @@
 
 <div align="center">
   <a href="https://github.com/MrBElga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=69F539&icon_color=69F539&text_color=A1FFB4&ring_color=69F539&border_radius=15&custom_title=Daniel%20Elias%20(MrBelga)%20%7C%20GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBElga&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&bg_color=0d1117&title_color=69F539&icon_color=69F539&text_color=A1FFB4&ring_color=69F539&border_radius=15&custom_title=Daniel%20Elias%20(MrBelga)%20%7C%20GitHub%20Stats"/>
   </a>
   <a href="https://github.com/MrBElga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=69F539&text_color=A1FFB4&border_radius=15&custom_title=Most%20Used%20Languages%20%7C%20MrBElga"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBElga&cache_seconds=86400&layout=compact&langs_count=12&theme=dark&hide_border=true&bg_color=0d1117&title_color=69F539&text_color=A1FFB4&border_radius=15&custom_title=Most%20Used%20Languages%20%7C%20MrBElga"/>
   </a>
 </div>
 <br/>
-
 
 <div align="center">
   <a href="https://github.com/MrBElga">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&bg_color=0d1117&color=69F539&line=69F539&point=A1A4A0&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
   </a>
 </div>
-
 <br/>
 
 <!-- Protected component | Signature: SHA1-f1d2d2f924e986ac -->
