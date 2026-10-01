@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="28" viewBox="0 0 264 28" role="img" aria-label="Email: mrbelga.dev@gmail.com">
+  <title>Email: mrbelga.dev@gmail.com</title>
+  <defs><clipPath id="r"><rect width="264" height="28" rx="4"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="80" height="28" fill="#1B5E20"/>
+    <rect x="80" width="184" height="28" fill="#0d1117"/>
+  </g>
+  <rect x="0.5" y="0.5" width="263" height="27" rx="3.5" fill="none" stroke="#2E7D32"/>
+  <g transform="translate(10 6)"><path d="M1.75 2h12.5c.966 0 1.75.784 1.75 1.75v8.5A1.75 1.75 0 0 1 14.25 14H1.75A1.75 1.75 0 0 1 0 12.25v-8.5C0 2.784.784 2 1.75 2ZM1.5 12.251c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V5.809L8.38 9.397a.75.75 0 0 1-.76 0L1.5 5.809v6.442Zm13-8.181v-.32a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25v.32L8 7.88Z" fill="#69F539"/></g>
+  <g font-family="Verdana, DejaVu Sans, Geneva, sans-serif" font-size="11" font-weight="700" text-anchor="start">
+    <text x="32" y="18.5" fill="#69F539" textLength="37" lengthAdjust="spacingAndGlyphs">EMAIL</text>
+    <text x="92" y="18.5" fill="#A1FFB4" textLength="159" lengthAdjust="spacingAndGlyphs">MRBELGA.DEV@GMAIL.COM</text>
+  </g>
+</svg>

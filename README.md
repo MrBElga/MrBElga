@@ -145,7 +145,7 @@ $ cat experiencia.log
 
 <div align="center">
   <a href="https://github.com/MrBElga">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBElga&bg_color=0d1117&color=69F539&line=69F539&point=A1FFB4&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
+    <img src="https://activity-graph.vercel.app/graph?username=MrBElga&bg_color=0d1117&color=69F539&line=69F539&point=A1FFB4&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
   </a>
 </div>
 
@@ -187,9 +187,9 @@ $ cat experiencia.log
 </div>
 
 <p align="center">
-  <a href="https://github.com/MrBElga"><img src="https://img.shields.io/badge/GitHub-%40MrBElga-0d1117?style=for-the-badge&logo=github&logoColor=69F539&labelColor=1B5E20" alt="GitHub @MrBElga"/></a>
-  <a href="https://www.linkedin.com/in/daniel-elias-fonseca-rumin-75656a186/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Elias-0d1117?style=for-the-badge&logo=linkedin&logoColor=69F539&labelColor=1B5E20" alt="LinkedIn Daniel Elias"/></a>
-  <a href="mailto:mrbelga.dev@gmail.com"><img src="https://img.shields.io/badge/Email-mrbelga.dev%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=69F539&labelColor=1B5E20" alt="Email mrbelga.dev@gmail.com"/></a>
+  <a href="https://github.com/MrBElga"><img src="assets/badges/github.svg" height="28" alt="GitHub @MrBElga"/></a>
+  <a href="https://www.linkedin.com/in/daniel-elias-fonseca-rumin-75656a186/"><img src="assets/badges/linkedin.svg" height="28" alt="LinkedIn Daniel Elias"/></a>
+  <a href="mailto:mrbelga.dev@gmail.com"><img src="assets/badges/email.svg" height="28" alt="Email mrbelga.dev@gmail.com"/></a>
 </p>
 
 <!-- ========================= SIGNATURE GIF ========================= -->

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="28" viewBox="0 0 218 28" role="img" aria-label="LinkedIn: Daniel Elias">
+  <title>LinkedIn: Daniel Elias</title>
+  <defs><clipPath id="r"><rect width="218" height="28" rx="4"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="103" height="28" fill="#1B5E20"/>
+    <rect x="103" width="115" height="28" fill="#0d1117"/>
+  </g>
+  <rect x="0.5" y="0.5" width="217" height="27" rx="3.5" fill="none" stroke="#2E7D32"/>
+  <g transform="translate(10 6)"><rect x="0" y="0" width="16" height="16" rx="3" fill="#69F539"/><rect x="3.2" y="6.4" width="2.4" height="6.6" fill="#0d1117"/><circle cx="4.4" cy="4" r="1.45" fill="#0d1117"/><path d="M7.4 6.4h2.3v1c.4-.7 1.2-1.2 2.3-1.2 1.6 0 2.4 1 2.4 2.9V13h-2.4V9.5c0-.9-.3-1.4-1.1-1.4-.7 0-1.1.5-1.1 1.4V13H7.4Z" fill="#0d1117"/></g>
+  <g font-family="Verdana, DejaVu Sans, Geneva, sans-serif" font-size="11" font-weight="700" text-anchor="start">
+    <text x="32" y="18.5" fill="#69F539" textLength="60" lengthAdjust="spacingAndGlyphs">LINKEDIN</text>
+    <text x="115" y="18.5" fill="#A1FFB4" textLength="90" lengthAdjust="spacingAndGlyphs">DANIEL ELIAS</text>
+  </g>
+</svg>
